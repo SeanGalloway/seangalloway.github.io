@@ -1,0 +1,33 @@
+#profile-pic-container {
+    position: relative;
+    padding: 10px;
+    height: fit-content;
+}
+
+#top-right-box {
+    border-color: var(--gray);
+    border-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+#bottom-left-box {
+    border-color: var(--gray);
+    border-width: 1px;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+#medium-img {
+    width: 18em;
+}
