@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="183.562" height="2017" transform="translate(1821.368 -167.338) rotate(41)" fill="#b1c3c1"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="183.562" height="2017" transform="translate(1528.868 -250.838) rotate(41)" fill="#b1c3c1"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="183.562" height="2017" transform="translate(1256.671 -371.206) rotate(41)" fill="#b1c3c1"/>
+  </g>
+</svg>
